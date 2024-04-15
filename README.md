@@ -5,4 +5,4 @@ In this project we will implement two sampling-based motion planning algorithms,
 
 To Run the code:
 
-python hw2 motion.py -q <1-6>
+python motion.py -q <1-6>
